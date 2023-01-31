@@ -1,2 +1,5 @@
 # DevForUs
-'Tada!'
+git branch
+git branch -a
+
+
