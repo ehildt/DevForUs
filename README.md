@@ -1,2 +1,2 @@
 # DevForUs
-'Tada!'
+git commit -am "Nachricht"
