@@ -1,0 +1,22 @@
+{
+  "name": "devforus",
+  "version": "1.0.0",
+  "description": "git branch\r git branch -a\r git commit -am \"Nachricht\"\r git push origin < branch identified >\r git pull origin < branch identified >\r git checkout -b feat/test_branch\r git add .",
+  "main": "person.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehildt/DevForUs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehildt/DevForUs/issues"
+  },
+  "homepage": "https://github.com/ehildt/DevForUs#readme",
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
